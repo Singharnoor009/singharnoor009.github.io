@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harnoor582 Blog</title>
+    <link>https://singharnoor009.github.io/</link>
+    <description>Recent content on Harnoor582 Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jul 2024 15:04:56 +0530</lastBuildDate>
+    <atom:link href="https://singharnoor009.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>https://singharnoor009.github.io/posts/mypost/</link>
+      <pubDate>Fri, 19 Jul 2024 15:04:56 +0530</pubDate>
+      <guid>https://singharnoor009.github.io/posts/mypost/</guid>
+      <description>Hello World&amp;hellip; this is some content</description>
+    </item>
+  </channel>
+</rss>
